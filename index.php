@@ -14,6 +14,7 @@
 <div id="bg">
         <img id="bgImage" src="images/home.jpg" alt="Homepage Image">
 </div>
+<div class="page-wrap">
 <div id="hamMenu">
     <img id="overlay" src="images/menu.png" width="80" alt="menu">
 </div>
@@ -55,7 +56,15 @@
     </div>
 </section>
 </div>
+</div>
 
+<footer class="site-footer">
+  <ul>
+    <li><a url="www.facebook.com"><img src="images/facebook.png" alt="facebook" width="40"></a></li>
+    <li><a url="www.instagram.com"><img src="images/instagram.png" alt="instagram" width="40"></a></li>
+    <li><a url="www.twitter.com"><img src="images/twitter.png" alt="twitter" width="40"></a></li>
+  <ul>
+</footer>
 <script src="js/vendor/jquery.js"></script>
 <script src="js/vendor/what-input.js"></script>
 <script src="js/vendor/foundation.js"></script>
